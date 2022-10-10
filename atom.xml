@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>伏麟の博客</title>
-  
+  <icon>https://www.gravatar.com/avatar/0d7bc34e7760775a351a54e8dae168df</icon>
   <subtitle> 冲淡平和，知白守黑</subtitle>
-  <link href="https://fulin-x.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.fulinx.top/atom.xml" rel="self"/>
   
-  <link href="https://fulin-x.github.io/"/>
+  <link href="https://blog.fulinx.top/"/>
   <updated>2022-10-09T03:20:52.270Z</updated>
-  <id>https://fulin-x.github.io/</id>
+  <id>https://blog.fulinx.top/</id>
   
   <author>
     <name>伏麟</name>
-    
+    <email>1376757343@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://fulin-x.github.io/posts/undefined.html"/>
-    <id>https://fulin-x.github.io/posts/undefined.html</id>
+    <link href="https://blog.fulinx.top/posts/undefined.html"/>
+    <id>https://blog.fulinx.top/posts/undefined.html</id>
     <published>2022-10-09T03:20:52.270Z</published>
     <updated>2022-10-09T03:20:52.270Z</updated>
     
