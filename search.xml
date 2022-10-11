@@ -8,7 +8,7 @@
       <link href="/posts/undefined.html"/>
       <url>/posts/undefined.html</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Music"><a href="#Music" class="headerlink" title="Music"></a>Music</h3><p><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script></p><script src="https://cdn.jsdelivr.net/npm/meting@1.2/dist/Meting.min.js"></script>    <div id="aplayer-pJAOgbww" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1384026889" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"    ></div><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><!--<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://github.com/owen0o0/getFavicon">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/github.com/owen0o0/getFavicon.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">获取网站的Favicon图标并显示在你的网页上</div>            <div class="tag-link-sitename">owen0o0</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a></div>-->]]></content>
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Music"><a href="#Music" class="headerlink" title="Music"></a>Music</h3><p><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1.10/dist/APlayer.min.js"></script></p><script src="https://cdn.jsdelivr.net/npm/meting@1.2/dist/Meting.min.js"></script>    <div id="aplayer-jaeDbVps" class="aplayer aplayer-tag-marker meting-tag-marker"         data-id="1384026889" data-server="netease" data-type="song" data-mode="circulation" data-autoplay="false" data-mutex="true" data-listmaxheight="340px" data-preload="auto" data-theme="#555"    ></div><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><!--<div calss='anzhiyu-tag-link'><a class="tag-Link" target="_blank" href="https://github.com/owen0o0/getFavicon">    <div class="tag-link-tips">引用站外地址</div>    <div class="tag-link-bottom">        <div class="tag-link-left" style="background-image: url(https://api.iowen.cn/favicon/github.com/owen0o0/getFavicon.png);"></div>        <div class="tag-link-right">            <div class="tag-link-title">获取网站的Favicon图标并显示在你的网页上</div>            <div class="tag-link-sitename">owen0o0</div>        </div>        <i class="fa-solid fa-angle-right"></i>    </div>    </a></div>-->]]></content>
       
       
       
@@ -20,11 +20,11 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title></title>
+      <link href="/manifest.json"/>
+      <url>/manifest.json</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[{"name":"伏麟の博客","short_name":"伏麟","theme_color":"#425aef","background_color":"#425aef","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/144.png","sizes":"144x144","type":"image/png"},{"src":"/img/siteicon/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
       
     </entry>
     
@@ -42,22 +42,11 @@
     
     
     <entry>
-      <title></title>
-      <link href="/manifest.json"/>
-      <url>/manifest.json</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[{"name":"伏麟の博客","short_name":"伏麟","theme_color":"#425aef","background_color":"#425aef","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/48.png","sizes":"48x48","type":"image/png"},{"src":"/img/siteicon/64.png","sizes":"64x64","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/144.png","sizes":"144x144","type":"image/png"},{"src":"/img/siteicon/512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/css/tags.css"/>
-      <url>/css/tags.css</url>
-      
-        <content type="html"><![CDATA[/* tags样式 */#aside-content .card-tag-cloud a {  color: var(--anzhiyu-fontcolor)!important;  font-size: 1.05rem !important;  border-radius: 8px;  display: inline-block;  margin-right: 4px;}#aside-content .card-tag-cloud a:hover {  background: var(--anzhiyu-theme);  color: var(--anzhiyu-white) !important;  box-shadow: var(--anzhiyu-shadow-theme);}@media screen and (min-width: 1300px) {  #aside-content .card-tag-cloud a:hover {    transform: scale(1.03);  }  #aside-content .card-tag-cloud a:active {    transform: scale(0.97);  }}#aside-content .card-tag-cloud a sup {  opacity: .4;  margin-left: 2px;}]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -69,39 +58,6 @@
       <url>/css/tag-link.css</url>
       
         <content type="html"><![CDATA[#article-container .tag-Link {    background: var(--heo-secondbg);    border-radius: 8px!important;    display: flex;    border: var(--style-border);    flex-direction: column;    padding: 0.5rem 1rem;    border-width: 1px!important;    margin-top: 1rem;  }    #article-container .tag-Link:hover {    border: var(--style-border-hover);  }    #article-container .tag-Link .tag-link-tips {    border-bottom: var(--style-border);    padding-bottom: 4px;    font-size: 0.6rem;    color: var(--heo-gray);    font-weight: normal;  }    #article-container .tag-Link:hover .tag-link-tips {    color: var(--heo-white);  }    #article-container .tag-Link .tag-link-bottom {    display: flex;    margin-top: 0.5rem;    align-items: center;    justify-content: space-around;  }    #article-container .tag-Link .tag-link-bottom .tag-link-left {    width: 60px;    min-width: 60px;    height: 60px;    background-size: cover;  }    #article-container .tag-Link .tag-link-bottom .tag-link-right {    margin-left: 1rem;  }    #article-container .tag-Link .tag-link-bottom .tag-link-right .tag-link-title {    font-size: 1rem;    line-height: 1.2;  }    #article-container .tag-Link .tag-link-bottom .tag-link-right .tag-link-sitename {    font-size: 0.7rem;    color: var(--heo-gray);    font-weight: normal;    margin-top: 4px;  }    #article-container .tag-Link:hover .tag-link-bottom .tag-link-right .tag-link-sitename {    color: var(--heo-white);  }    #article-container .tag-Link .tag-link-bottom i {    margin-left: auto;  }]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友人帐</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/js/runtime.js"/>
-      <url>/js/runtime.js</url>
-      
-        <content type="html"><![CDATA[var now=new Date;function createtime(){var grt=new Date("10/09/2022 00:00:00");now.setTime(now.getTime()+250);var days=(now-grt)/1e3/60/60/24,dnum=Math.floor(days),hours=(now-grt)/1e3/60/60-24*dnum,hnum=Math.floor(hours);1==String(hnum).length&&(hnum="0"+hnum);var minutes=(now-grt)/1e3/60-1440*dnum-60*hnum,mnum=Math.floor(minutes);1==String(mnum).length&&(mnum="0"+mnum);var seconds=(now-grt)/1e3-86400*dnum-3600*hnum-60*mnum,snum=Math.round(seconds);1==String(snum).length&&(snum="0"+snum);let currentTimeHtml="";currentTimeHtml=hnum<18&&hnum>=9?`<img class='boardsign' src='../img/伏麟-上课搬砖中.svg' title='苦逼大学牲~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`:`<img class='boardsign' src='../img/伏麟-下课了.svg' title='下课了就该狠狠干饭，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=currentTimeHtml)}setInterval(()=>{createtime()},250);]]></content>
       
     </entry>
     
@@ -124,6 +80,50 @@
       <url>/js/title.js</url>
       
         <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener('visibilitychange', function () {  if (document.hidden) {    //离开当前页面时标签显示内容    document.title = 'w(ﾟДﾟ)w 不要走！再看看嘛！';    clearTimeout(titleTime);  } else {    //返回当前页面时标签显示内容    document.title = '♪(^∇^*)欢迎肥来！' + OriginTitile;    //两秒后变回正常标题    titleTime = setTimeout(function () {      document.title = OriginTitile;    }, 2000);  }});]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/runtime.js"/>
+      <url>/js/runtime.js</url>
+      
+        <content type="html"><![CDATA[var now=new Date;function createtime(){var grt=new Date("10/09/2022 00:00:00");now.setTime(now.getTime()+250);var days=(now-grt)/1e3/60/60/24,dnum=Math.floor(days),hours=(now-grt)/1e3/60/60-24*dnum,hnum=Math.floor(hours);1==String(hnum).length&&(hnum="0"+hnum);var minutes=(now-grt)/1e3/60-1440*dnum-60*hnum,mnum=Math.floor(minutes);1==String(mnum).length&&(mnum="0"+mnum);var seconds=(now-grt)/1e3-86400*dnum-3600*hnum-60*mnum,snum=Math.round(seconds);1==String(snum).length&&(snum="0"+snum);let currentTimeHtml="";currentTimeHtml=hnum<18&&hnum>=9?`<img class='boardsign' src='../img/伏麟-上课搬砖中.svg' title='苦逼大学牲~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`:`<img class='boardsign' src='../img/伏麟-下课了.svg' title='下课了就该狠狠干饭，嘿嘿~'><span class='textTip'> <br> 本站居然运行了 ${dnum} 天</span><span id='runtime'> ${hnum} 小时 ${mnum} 分 ${snum} 秒 </span> <i class='fas fa-heartbeat' style='color:red'></i>`,document.getElementById("workboard")&&(document.getElementById("workboard").innerHTML=currentTimeHtml)}setInterval(()=>{createtime()},250);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友人帐</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/css/tags.css"/>
+      <url>/css/tags.css</url>
+      
+        <content type="html"><![CDATA[/* tags样式 */#aside-content .card-tag-cloud a {  color: var(--anzhiyu-fontcolor)!important;  font-size: 1.05rem !important;  border-radius: 8px;  display: inline-block;  margin-right: 4px;}#aside-content .card-tag-cloud a:hover {  background: var(--anzhiyu-theme);  color: var(--anzhiyu-white) !important;  box-shadow: var(--anzhiyu-shadow-theme);}@media screen and (min-width: 1300px) {  #aside-content .card-tag-cloud a:hover {    transform: scale(1.03);  }  #aside-content .card-tag-cloud a:active {    transform: scale(0.97);  }}#aside-content .card-tag-cloud a sup {  opacity: .4;  margin-left: 2px;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
