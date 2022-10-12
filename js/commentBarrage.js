@@ -2,17 +2,17 @@
 const commentBarrageConfig = {
 	//浅色模式和深色模式颜色，务必保持一致长度，前面是背景颜色，后面是字体，随机选择，默认这个颜色还好
 	lightColors:[
-		['var(--lyx-white-acrylic2)','var(--lyx-black)'],
+		['#ffffffaa','var(--lyx-black)'],
 	],
 	darkColors:[
-		['var(--lyx-black-acrylic2)','var(--lyx-white)'],
+		['#000a','var(--lyx-white)'],
 	],
 	//同时最多显示弹幕数
 	maxBarrage: 1,
 	//弹幕显示间隔时间，单位ms
 	barrageTime: 3000,
 	//twikoo部署地址（Vercel、私有部署），腾讯云的为环境ID
-	twikooUrl: "https://twitoo.fulinx.top",
+	twikooUrl: "https://twikoo.fulinx.top",
 	//token获取见前文
 	accessToken: "af79420f32700dc3bb7161668a9c6eb1",
 	pageUrl: window.location.pathname,
